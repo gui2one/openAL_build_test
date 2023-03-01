@@ -1,0 +1,3 @@
+[submodule "vendor/openal"]
+	path = vendor/openal
+	url = https://github.com/kcat/openal-soft.git
