@@ -1,3 +1,6 @@
 [submodule "vendor/openal"]
 	path = vendor/openal
 	url = https://github.com/kcat/openal-soft.git
+[submodule "vendor/wave"]
+	path = vendor/wave
+	url = https://github.com/audionamix/wave.git
